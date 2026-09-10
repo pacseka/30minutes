@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<style>
+  body {
+    background-color: black;
+    background-image: radial-gradient(
+      rgba(0, 150, 0, 0.75), black 120%
+    );
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    padding: 2rem;
+    color: white;
+    font: 1.3rem Inconsolata, monospace;
+    text-shadow: 0 0 5px #C8C8C8;
+    &::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: repeating-linear-gradient(
+        0deg,
+        rgba(black, 0.15),
+        rgba(black, 0.15) 1px,
+        transparent 1px,
+        transparent 2px
+      );
+      pointer-events: none;
+    },
+    text-transform: uppercase;
+  }
+  ::selection {
+    background: #0080FF;
+    text-shadow: none;
+  }
+  pre {
+    margin: 0;
+  }
+ 
+  .c1{
+    display: inline-block;
+  }
+  
+  h1 {
+    font: 1.3vw Inconsolata, monospace;
+    margin-top: 1%;
+	text-transform: uppercase;
+  }
+  
+  h1 .type{
+      font: 1.3vw Inconsolata, monospace;
+	  text-transform: uppercase;
+      overflow: hidden;
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+  }
+  h1 .type2{
+      font: 1.3vw Inconsolata, monospace;
+	  text-transform: uppercase;
+      overflow: hidden;
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+      animation-delay: 1s;
+  }
+  
+  h1 .type3{
+      font: 1.3vw Inconsolata, monospace;
+      overflow: hidden;
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+      animation-delay: 2s;
+  }
+  
+    h1 .type4{
+      font: 1.3vw Inconsolata, monospace;
+      overflow: hidden;
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+      animation-delay: 3s;
+  }
+  
+  h1 .type5 {
+      font: 1.3vw Inconsolata, monospace;
+      overflow: hidden;
+      border-right: .50em solid white; 
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards,
+		blink-caret .75s step-end infinite;
+      animation-delay: 4s;
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #41FF00; }
+  }
+</style>
+</head>
+<body>
+	<h1>
+		Bejövő üzenet a Raptor felderítő hajónak
+		<br/>
+		<div class="c1">
+			<div class="type">Helyszín: Nebula 4 rendszer, BETHESDA KATONAI KÖRZET</div>
+		</div>
+		</br>
+		<div class="c1">
+			<div class="type2">Titkosítási szint: szigorúan bizalmas</div>
+			<br/>
+			<div class="type2">Művelet neve: Firebird</div>
+		</div>
+		
+		<br/>
+		<br/>
+		<div class="c1">
+		    <div class="type3">
+				Eligazítás:
+			</div>
+			<div class="type3">
+				Az NGC-154 PESTH katonai teherhajó hajtómű meghibásodás miatt vészjelzést adott. A kapcsolat megszakadt.
+			</div>
+			<div class="type3">
+				A mentésére küldött műszaki egységgel a kapcsolat megszakadt.
+			</div>
+			<div class="type3">
+				Önök a legközelebbi lopakodó-felderítő egység.
+			</div>
+		</div>
+		<br/>
+		<br/>
+		<div class="c1">
+			<div class="type4">
+				Feladat:
+			</div>
+
+			<div class="type4">
+				Elsődleges direktíva: NGC-154 kimentése
+			</div>
+			<div class="type4">
+				Másodlagos direktíva: Az NGC-154 és rakományának megsemmisítése, ha a kimentés nem lehetséges
+			</div>
+		    <div class="type4">
+				Teherhajó rakománya: titkosítva
+			</div>
+			<br/>
+			<br/>
+			<div class="type4">Eljárásrend: Tartaros protocol</div>
+		</div>
+		<br/>
+		<br/>
+		<div  class="c1">
+			<div class="type5">sok sikert!
+			</div>
+		</div>
+	</h1>
+</body>
+</html>

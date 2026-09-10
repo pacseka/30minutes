@@ -15,7 +15,7 @@ menu:
     - identifier: irasok
       name: Írások
       url: /posts/
-      weight: 10
+      weight: 100
     - identifier: memes
       name: Mémek
       url: /memes/
