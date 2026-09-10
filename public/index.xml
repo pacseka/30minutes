@@ -6,15 +6,22 @@
     <description>Recent content on 30 perces gondolatok</description>
     <generator>Hugo</generator>
     <language>hu</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:37:45 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:17:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fireball mentő</title>
+      <link>http://localhost:1313/memes/fireball/</link>
+      <pubDate>Thu, 10 Sep 2026 20:17:00 +0200</pubDate>
+      <guid>http://localhost:1313/memes/fireball/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Mentő dobás&#34; loading=&#34;lazy&#34; src=&#34;mento.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>30 perc írás</title>
       <link>http://localhost:1313/posts/elso-bejegyzes/</link>
       <pubDate>Thu, 10 Sep 2026 17:37:45 +0200</pubDate>
       <guid>http://localhost:1313/posts/elso-bejegyzes/</guid>
       <description>&lt;h1 id=&#34;beköszönő-leginkább-magamnak&#34;&gt;Beköszönő (leginkább magamnak)&lt;/h1&gt;
-&lt;p&gt;Sok évvel ezelőtt (na jó annyira nem sok, de legalább 10), sokat fórumoztam, beszélgettem írásban emberekkel, vitáztunk sokszor építő jeleggel és néha meg olyan igazi net parasztosan. Aztán ez egyszer csak elmúlt.&lt;/p&gt;</description>
+&lt;p&gt;Sok évvel ezelőtt (na jó annyira nem sok, de legalább 10), sokat fórumoztam, beszélgettem írásban emberekkel, vitáztunk sokszor építő jeleggel és néha meg olyan igazi &amp;ldquo;net parasztosan&amp;rdquo;. Aztán ez egyszer csak elmúlt. Ennek sok oka van az egyik ezek közül az, hogy a hasznos beszélgetések aránya az időt rabló partatlan viták idejéhez képest egyre csak csökkent. A meddő viták (amelyek alatt most a &amp;ldquo;kinek az anyja&amp;rdquo; és a &amp;ldquo;miva&amp;rsquo; miva&amp;rsquo; miva&amp;rsquo;&amp;rdquo; online megfelelőit értem) és ugyanazon körök újra és újra futása elvette a kedvem attól, hogy visszatérjek a fórumok világába. Az elmúlt 10 évben azonban &amp;hellip; nos ez mit sem változott.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

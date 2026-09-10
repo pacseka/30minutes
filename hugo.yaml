@@ -8,11 +8,15 @@ params:
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
 
 menu:
   main:
-    - identifier: posts
+    - identifier: irasok
       name: Írások
       url: /posts/
+      weight: 10
+    - identifier: memes
+      name: Mémek
+      url: /memes/
       weight: 10
