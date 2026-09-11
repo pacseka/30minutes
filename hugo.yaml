@@ -1,8 +1,13 @@
 baseURL: "https://savingthrow.hu/"
-languageCode: "hu"
 title: "30 perces gondolatok"
 
 theme: "PaperMod"
+
+defaultContentLanguage: hu
+languages:
+  hu:
+    locale: hu-HU
+    timeZone: Europe/Budapest
 
 params:
   ShowReadingTime: true

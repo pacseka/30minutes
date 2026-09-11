@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Memes on 30 perces gondolatok</title>
-    <link>http://localhost:60838/memes/</link>
-    <description>Recent content in Memes on 30 perces gondolatok</description>
+    <title>Meme on 30 perces gondolatok</title>
+    <link>http://localhost:60838/tags/meme/</link>
+    <description>Recent content in Meme on 30 perces gondolatok</description>
     <generator>Hugo</generator>
     <language>hu-HU</language>
     <lastBuildDate>Thu, 10 Sep 2026 20:17:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:60838/memes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60838/tags/meme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fireball mentő</title>
       <link>http://localhost:60838/memes/fireball/</link>
       <pubDate>Thu, 10 Sep 2026 20:17:00 +0200</pubDate>
       <guid>http://localhost:60838/memes/fireball/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Mentő dobás&#34; loading=&#34;lazy&#34; src=&#34;mento.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

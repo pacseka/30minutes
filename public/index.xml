@@ -2,24 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>30 perces gondolatok</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:60838/</link>
     <description>Recent content on 30 perces gondolatok</description>
     <generator>Hugo</generator>
-    <language>hu</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:17:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>hu-HU</language>
+    <lastBuildDate>Fri, 11 Sep 2026 11:51:01 +0200</lastBuildDate>
+    <atom:link href="http://localhost:60838/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arnhem</title>
+      <link>http://localhost:60838/posts/arnhem/arnhem/</link>
+      <pubDate>Fri, 11 Sep 2026 11:51:01 +0200</pubDate>
+      <guid>http://localhost:60838/posts/arnhem/arnhem/</guid>
+      <description>&lt;p&gt;Az első stratégiai játék, amivel találkoztam szerintem a sakk volt. 7-8 éves lehettem, amikor megtanultam játszani és aztán egészen sokáig aktívan sakkoztam is.&lt;/p&gt;
+&lt;p&gt;A következő a Harc Európáért volt. Ez egy 1986-ban megjelent táblás stratégiai játék, ami valószínűleg az első lehetett az országban ebben a kategóriában. Bár sokat játszottam vele sajnos nekem nem volt meg. Azóta persze szert tettem egy jó állapotú példányra. Ez a játék volt, ami miatt igazán beleszerettem a táblás wargamek-be.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fireball mentő</title>
-      <link>http://localhost:1313/memes/fireball/</link>
+      <link>http://localhost:60838/memes/fireball/</link>
       <pubDate>Thu, 10 Sep 2026 20:17:00 +0200</pubDate>
-      <guid>http://localhost:1313/memes/fireball/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Mentő dobás&#34; loading=&#34;lazy&#34; src=&#34;mento.jpg&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:60838/memes/fireball/</guid>
+      <description></description>
     </item>
     <item>
       <title>30 perc írás</title>
-      <link>http://localhost:1313/posts/elso-bejegyzes/</link>
+      <link>http://localhost:60838/posts/elso-bejegyzes/</link>
       <pubDate>Thu, 10 Sep 2026 17:37:45 +0200</pubDate>
-      <guid>http://localhost:1313/posts/elso-bejegyzes/</guid>
+      <guid>http://localhost:60838/posts/elso-bejegyzes/</guid>
       <description>&lt;h1 id=&#34;beköszönő-leginkább-magamnak&#34;&gt;Beköszönő (leginkább magamnak)&lt;/h1&gt;
 &lt;p&gt;Sok évvel ezelőtt (na jó annyira nem sok, de legalább 10), sokat fórumoztam, beszélgettem írásban emberekkel, vitáztunk sokszor építő jeleggel és néha meg olyan igazi &amp;ldquo;net parasztosan&amp;rdquo;. Aztán ez egyszer csak elmúlt. Ennek sok oka van az egyik ezek közül az, hogy a hasznos beszélgetések aránya az időt rabló partatlan viták idejéhez képest egyre csak csökkent. A meddő viták (amelyek alatt most a &amp;ldquo;kinek az anyja&amp;rdquo; és a &amp;ldquo;miva&amp;rsquo; miva&amp;rsquo; miva&amp;rsquo;&amp;rdquo; online megfelelőit értem) és ugyanazon körök újra és újra futása elvette a kedvem attól, hogy visszatérjek a fórumok világába. Az elmúlt 10 évben azonban &amp;hellip; nos ez mit sem változott.&lt;/p&gt;</description>
     </item>

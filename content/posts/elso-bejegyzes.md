@@ -1,8 +1,8 @@
-+++
-date = '2026-09-10T17:37:45+02:00'
-draft = false
-title = '30 perc írás'
-+++
+---
+date: '2026-09-10T17:37:45+02:00'
+draft: false
+title: '30 perc írás'
+---
 
 # Beköszönő (leginkább magamnak)
 
@@ -12,7 +12,7 @@ Sok évvel ezelőtt (na jó annyira nem sok, de legalább 10), sokat fórumoztam
 
 Nyilván én. Meglepetés: ha nem gyakorolsz valamit, akkor nem fog jól menni. Ilyen a kommunikáció írásban is. Összefüggő érthető mondatokat írni nem rakéta tudomány, de ha nem gyakorolod, akkor nem fog menni. A szókincs beszűkül, az írás gyermeteg lesz - amit olvasni kifejezetten fájdalmas.
 
-Másrészt hiányoznak bizonyos típusú "contentek". Megjelent cikkekről, könyvekről, újságokról az elemzések, reviewk és ezekről indult beszélgetések. Ezek mintha elmúltak volna. Pár oldal utóvéd harcot vív az emoji kommunikációval - inkább kevesebb sikerrel mint többel. Például a <https://lfg.hu> de a 20-25 évvel ezelőtti tartalmaihoz képest csak árnyáka önmagának.
+Másrészt hiányoznak bizonyos típusú "contentek". Megjelent cikkekről, könyvekről, újságokról az elemzések, reviewk és ezekről indult beszélgetések. Ezek mintha elmúltak volna. Pár oldal utóvéd harcot vív az emoji kommunikációval - inkább kevesebb sikerrel mint többel. Például a <https://lfg.hu> de a 20-25 évvel ezelőtti tartalmaihoz képest csak árnyéka önmagának.
 
 Szóval hiányzik, hogy elmondjam a véleményem szép írott formátumban.
 
@@ -40,4 +40,4 @@ Mindenről, ami érdekel és eszembe jut. Csak magamnak egy lista, ha elfelejten
 
 ### Ha esetleg, de csak nem
 
-Véleményket lehet küldeni a <tentdimerce@gmail.com> -ra, ha valaki nagyon akar, de amúgy miért akarna?
+Véleményeket lehet küldeni a <tentdimerce@gmail.com> -ra, ha valaki nagyon akar, de amúgy miért akarna?
