@@ -1,7 +1,7 @@
 ---
 date: '2026-09-11T11:51:01+02:00'
 draft: false
-title: 'Arnhem'
+title: 'Arnhem és társai'
 tags:
   - wargame
 cover:
