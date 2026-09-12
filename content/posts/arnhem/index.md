@@ -46,16 +46,13 @@ Azóta persze sok körökre osztott stratégiai játék jelent meg, szebb grafik
 Új magyar táblás wargamek továbbra nem léteznek, de azért nálunk is hozzáférhetőek a külföldön kiadottak. Létezik hadműveleti szintű hex & counter táblás játék kiadás európában is, de ezeket sajnos nem ismerem test közelből. Egyszer, ha a párom épp másfelé néz rendelek egyet.
 
 A GMT által kiadott Mark Simonitch '4x sorozatból viszont van pár a polcomon. Komplexitásában nagyjából az a mélység, amiért még tudok lelkesedni, egészen jól játszhatóak egyedül és a token, térkép dizájn is megfelel az ízlésemnek.
-Ezek a játékok már messze összetettebbek mint a Harc Európáért (ZOC, EZOC, LOS, DS - hogy dobálózzak nagyképűen mindenféle rövidítéssel), de jól hozzák annak és főként az Arnhemnek a hangulatát.
-
+Ezek a játékok már messze összetettebbek mint a Harc Európáért (ZOC, EZOC, LOS, DS - hogy dobálózzak nagyképűen mindenféle rövidítéssel), de jól hozzák annak és főként az Arnhemnek a hangulatát.  
 Fájdalmam, hogy ezek a játékok fényes papírra nyomtatott térképpel érkeznek és bár lehet kemény táblás térképet (mounted map) külön venni ezeket magyar terjesztők szinte soha nem rendelik be. Igazából úgy tapasztaltam, hogy ezekből a kiegészítőkből egész Európába se jut túl sok.
 
 ## PC hex & counter wargamek
 
-Nem sok kiadó/fejlesztő foglalkozik ilyen típusú játékkal. A stratégiai szimuláció elég réteg műfaj és talán az utolsó mainstreamhez sorolható sikereket elérő General sorozat (Panzer, Pacific, Allied, Fantasy) is nagyobb hangsúlyt fektetett a csata animációkra, mint a Line of Supply (wargame sznobul ejtve: LOS) implementálására.
-
-Nem tudom, hogy létezik-e még egyáltalán mainstreamhez sorolható wargame PC játék vagy nagy kiadó, aki ad ki ilyen játékot, de szerintem nem. A konzolokat ebben a kategóriában nyilván elfelejthetjük.
-
+Nem sok kiadó/fejlesztő foglalkozik ilyen típusú játékkal. A stratégiai szimuláció elég réteg műfaj és talán az utolsó mainstreamhez sorolható sikereket elérő General sorozat (Panzer, Pacific, Allied, Fantasy) is nagyobb hangsúlyt fektetett a csata animációkra, mint a Line of Supply (wargame sznobul ejtve: LOS) implementálására.  
+Nem tudom, hogy létezik-e még egyáltalán mainstreamhez sorolható wargame PC játék vagy nagy kiadó, aki ad ki ilyen játékot, de szerintem nem. A konzolokat ebben a kategóriában nyilván elfelejthetjük.  
 Azért léteznek új hex & counter wargamek. A Matrix Games játékai népszerűek és egyben elég összetettek is - láthatóan a célközönség a hardcore wargamerek. Ezek a játékok 40€ környékén kezdődnek, de az alant látható 2014-es Gary Grigsby's War in the West szerényen 80€ . Ezeket nem próbáltam még ki, de rajta vannak a bakancslistámon.
 
 ![War in the West](war_in_the_west.jpg)
