@@ -25,3 +25,9 @@ menu:
       name: Mémek
       url: /memes/
       weight: 10
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
