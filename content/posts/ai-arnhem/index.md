@@ -16,9 +16,17 @@ Kibányásztam a Panzer Generalból a grafikákat, írtam egység és térkép s
 
 ## AI új lehetőségek
 
-Viszont most itt az AI korában nincs rá mentség, hogy ne csináljak a segítségével valami igazán jót, megismételhetetlent, egyedit és mindenki által csodált játékot. Ezért úgy döntöttem, hogy első lépésben az Arnhem-et fogom C# -ban reimplementálni. Friss és újszerű gondolat, nem?  
+Viszont most itt az AI korában nincs rá mentség, hogy ne csináljak a segítségével valami igazán jót, megismételhetetlent, egyedit és mindenki által csodált játékot, amivel a világ nagytőkései közé emelkedem. Ezért úgy döntöttem, hogy első lépésben az Arnhem-et fogom C# -ban reimplementálni. Friss és újszerű gondolat, nem?  
 Természetesen nincs kedvem, se a Spectrumos, se a DOS-os  - vagy bármilyen más verziót - visszafejteni (magyarul reverse-engineering). Erre van az AI, meg arra, hogy ha visszafejtette, akkor csinálja is meg nekem a modern implementációját - nekem nem is kell dolgoznom vele, csak megmondom, hogy mit csináljon odaadom az EXE neki és kész. Mint egy úr. Hát nem pont ...
 
 ### Első próbálkozás
 
-Egy 48KB-os méretű programról van szó, ami packelve biztosan van (csak így tudományosan), egyéb védelemre nem igazán számítok.
+Egy 48KB-os méretű programról van szó, ami packelve biztosan van (csak így tudományosan), de egyéb védelemre nem igazán számítok. Fogtam hát az ARNHEM.exe-t, ami bárki számára elérhető némi googlizást követően - elviekben törvényesen - és feltöltöttem a ChatGPT-nek, hogy akkor pikk meg pakk készítsen nekem ebből egy .NET10 C# alkalmazást. Nem nagy cucc, 40 éves programot csak kiráz a kisujjából is.  
+Ki is rázta. Létrehozott pár C# fájlt üres osztályokkal, hogy na akkor majd ezekbe kell beletenni a kódot. Úgy éreztem ezzel még nem fogunk tarolni a piacon.
+
+48K ide vagy oda valami azt súgta, hogy a reimplementálás nem a chat felületen fog megtörténni.
+
+### Ad astra azaz a második próbálkozás
+
+Másodjara
+
