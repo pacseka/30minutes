@@ -2,6 +2,7 @@
 date: '2026-09-11T11:51:01+02:00'
 draft: false
 title: 'Arnhem és társai'
+author: "Pacsek Antal"
 tags:
   - wargame
 cover:

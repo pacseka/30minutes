@@ -1,7 +1,8 @@
 ---
 date: '2026-09-12T21:35:21+02:00'
-draft: true
+draft: false
 title: 'AI Arnhem'
+author: "Pacsek Antal"
 tags:
   - wargame
   - AI
@@ -39,7 +40,7 @@ Megjegyzem továbbra sem tartom agysebészetnek a dolgot - egy junior fejlesztő
 
 ### Csináljuk tudományosan
 
-Az Every-nek van egy compund engineering pluginje, ami mindenféle skill-t tartalmaz. Lehet vele brainstormingolni, plant készíteni, van implementációs skill szóval ezzel már nem hibázhatunk. Fejlesztéshez sokszor használtam már. Brainstormingolunk, tervezünk, implementálunk, elégedetten hátradőlünk. Egyszerű ez, mint a 2x2. A tokent eszi rendesen, mintha nem lenne holnap (vagy heti keret), cserébe tényleg hatékony folyamat. 
+Az Every-nek van egy compund engineering pluginje, ami mindenféle skill-t tartalmaz. Lehet vele brainstormingolni, plant készíteni, van implementációs skill szóval ezzel már nem hibázhatunk. Fejlesztéshez sokszor használtam már. Brainstormingolunk, tervezünk, implementálunk, elégedetten hátradőlünk. Egyszerű ez, mint a 2x2. A tokent eszi rendesen, mintha nem lenne holnap (vagy heti keret), cserébe tényleg hatékony folyamat.
 Úgy gondoltam, ha már ennyire benne vagyunk a tudományban, akkor megdumálom a jövővel, hogy a játék színei a Spectrumos verzió színei legyenek. Később kiderült, hogy ez hülye ötlet volt.  
 
 Itt már olyan tudományos voltam, hogy váltogattam a modellkeket a braibstorming-plan-work fázisokban. Astra-Sol-Terra. Gondolatban veregettem is a válam, hogy na így kell ezt.
@@ -57,7 +58,3 @@ Arra gondoltam most majd jól megtervezzük együtt a ChatGPT-vel. Ha a ChatGPT 
 Előnye a módszernek, hogy nem fogyaszt tokent. Hátránya, hogy nincs benne a fejlesztési kontextusban, de hát a 48K méretű exe-t odaadom neki, aztán majd kitalálja ami neki kell.
 
 A ChatGPT fázisokra bontja a dolgot (Phase 1, 2 stb), ami tetszik. Olyan menően szakszerű meg minden. Írt saját Agent-et is a projekthez, kész őrület milyen jót szakmázunk a ChatGPT meg én. Elkezdtük a reverse engineeringet - oké ilyen eddig is volt, de ez most más. Érzem a csontjaimban.
-
-
-
-
