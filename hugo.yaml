@@ -26,7 +26,6 @@ menu:
       url: /memes/
       weight: 10
 
-
 markup:
   goldmark:
     renderer:
