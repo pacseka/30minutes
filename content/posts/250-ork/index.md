@@ -3,7 +3,9 @@ date: '2026-09-14T19:13:41+02:00'
 draft: false
 title: 'Jött 250 Ork'
 author: 'Pacsek Antal'
-
+tags:
+  - RPG
+  
 cover:
   image: '250ork.png'
   alt: 'Jött 250 Ork'
