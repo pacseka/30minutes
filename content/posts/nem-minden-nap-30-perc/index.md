@@ -6,6 +6,10 @@ author: 'Pacsek Antal'
 tags:
   - munka
 
+keywords:
+  - munka
+  - káosz
+
 cover:
   image: 'kaotikus_ecom.png'
   alt: 'Majdnem mindennap 30 perc'

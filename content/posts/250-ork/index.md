@@ -5,6 +5,11 @@ title: 'Jött 250 Ork'
 author: 'Pacsek Antal'
 tags:
   - RPG
+
+keywords:
+  - rpg
+  - magus
+  - ork
   
 cover:
   image: '250ork.png'

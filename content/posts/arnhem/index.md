@@ -8,6 +8,11 @@ tags:
 cover:
   image: 'posts/arnhem/arnhem_css_1985.png'
   alt: 'Arnhem CSS 1985'
+
+keywords:
+  - arnhem
+  - ZX Spectrum
+  - wargame
 ---
 
 Az első stratégiai játék, amivel találkoztam szerintem a sakk volt. 7-8 éves lehettem, amikor megtanultam játszani és aztán egészen sokáig aktívan sakkoztam is.
