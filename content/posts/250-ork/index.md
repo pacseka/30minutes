@@ -2,7 +2,7 @@
 date: '2026-09-14T19:13:41+02:00'
 draft: false
 title: 'Jött 250 Ork'
-author: 'Pacsek Antal'
+author: 'Pacsek Antal (Hacsi)'
 tags:
   - RPG
 
@@ -10,6 +10,7 @@ keywords:
   - rpg
   - magus
   - ork
+  - szerepjáték
   
 cover:
   image: '250ork.png'

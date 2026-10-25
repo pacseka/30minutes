@@ -2,6 +2,7 @@
 date: '2026-09-10T17:37:45+02:00'
 draft: false
 title: '30 perc írás'
+author: 'Pacsek Antal (Hacsi)'
 ---
 
 # Beköszönő (leginkább magamnak)

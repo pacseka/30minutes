@@ -2,7 +2,7 @@
 date: '2026-09-16T19:02:31+02:00'
 draft: true
 title: 'Military RPG'
-author: 'Pacsek Antal'
+author: 'Pacsek Antal (Hacsi)'
 
 tags:
   - RPG

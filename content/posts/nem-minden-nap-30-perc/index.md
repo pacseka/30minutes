@@ -2,7 +2,7 @@
 date: '2026-10-03T12:14:31+02:00'
 draft: false
 title: 'Nem mindennap 30 Perc'
-author: 'Pacsek Antal'
+author: 'Pacsek Antal (Hacsi)'
 tags:
   - munka
 

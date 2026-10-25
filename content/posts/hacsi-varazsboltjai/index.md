@@ -2,7 +2,7 @@
 date: '2026-10-22T20:04:18+02:00'
 draft: false
 title: 'Hacsi Varázsboltjai'
-author: 'Pacsek Antal'
+author: 'Pacsek Antal (Hacsi)'
 tags:
   - RPG
   - D&D
@@ -15,6 +15,7 @@ keywords:
   - AI
   - magic shop
   - Hacsi
+  - szerepjáték
 
 cover:
   image: 'magic-shop.png'
@@ -81,10 +82,12 @@ Na mindegy, mielőtt elveszi a munkámat úgy gondoltam, hogy csináltatok vele 
 * egyedi árak
 * némi rpg támogató elemek
 
-Persze nem csak D&D 2024 -hez használható, azt lehet beletölteni amit csak akarunk. Oké ebben nincs benne a tárgy beszerzéssel kapcsolatos dolgok. Még. De úgy érzem benne lesz.
+Persze nem csak D&D 2024 -hez használható, azt lehet beletölteni amit csak akarunk. Oké ebben nincs benne a tárgy beszerzéssel kapcsolatos dolgok. Még. De úgy érzem benne lesz. Update: már benne is van.
 
 Anélkül, hogy egyetlen sor kódot írtam volna, csináltam - vagy is az AI csinálta, illetve nem tudom, hogy ilyenkor ki csinálta - egy magic shopot. A neve hihetetlen kreatív módon a **Hacsi's magic shops** lett. Nem volt nagy brainstorming a név kitalálásánál ezt elismerem. Egészen pofás - nem csak ahhoz képest, hogy én mennyire mérhetetlenül béna vagyok minden design területén.
 
 Szóval: [Hacsi's magic shops](https://savingthrow.hu/magic-shop/)
 
 Szerintem meg is fogom osztani a közöséggel, legalább kiderül, hogy kibír-e az ingyenes firestore egynél több felhasználót.
+
+Battle tracker felkészül.

@@ -2,7 +2,7 @@
 date: '2026-09-12T21:35:21+02:00'
 draft: false
 title: 'AI Arnhem'
-author: "Pacsek Antal"
+author: "Pacsek Antal (Hacsi)"
 tags:
   - wargame
   - AI

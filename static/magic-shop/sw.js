@@ -1,5 +1,5 @@
-const CACHE = "hacsi-magic-shops-2a182064125b";
-const PRECACHE = ["/magic-shop/apple-touch-icon.png","/magic-shop/assets/bag.png","/magic-shop/assets/cloak.png","/magic-shop/assets/header-merchant.png","/magic-shop/assets/index-BOF12x1N.css","/magic-shop/assets/index-BuwSuQ31.js","/magic-shop/assets/item-type-armor.jpg","/magic-shop/assets/item-type-rod.jpg","/magic-shop/assets/item-type-staff.jpg","/magic-shop/assets/item-type-wand.jpg","/magic-shop/assets/item-type-weapon.jpg","/magic-shop/assets/parchment.png","/magic-shop/assets/potion.png","/magic-shop/assets/ring.png","/magic-shop/assets/scroll.png","/magic-shop/icon-192.png","/magic-shop/icon-512.png","/magic-shop/index.html","/magic-shop/manifest.webmanifest"];
+const CACHE = "hacsi-magic-shops-8249d6a755c4";
+const PRECACHE = ["/magic-shop/apple-touch-icon.png","/magic-shop/assets/bag.png","/magic-shop/assets/cloak.png","/magic-shop/assets/header-merchant.png","/magic-shop/assets/index-CoqUFtqo.css","/magic-shop/assets/index-CrXic25r.js","/magic-shop/assets/item-type-armor.jpg","/magic-shop/assets/item-type-rod.jpg","/magic-shop/assets/item-type-staff.jpg","/magic-shop/assets/item-type-wand.jpg","/magic-shop/assets/item-type-weapon.jpg","/magic-shop/assets/merchant-offer.png","/magic-shop/assets/parchment.png","/magic-shop/assets/potion.png","/magic-shop/assets/ring.png","/magic-shop/assets/scroll.png","/magic-shop/icon-192.png","/magic-shop/icon-512.png","/magic-shop/index.html","/magic-shop/manifest.webmanifest"];
 const APP_URL = "/magic-shop/";
 
 self.addEventListener('install', (event) => {
